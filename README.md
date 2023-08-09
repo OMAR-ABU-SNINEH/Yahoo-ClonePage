@@ -2,4 +2,5 @@
 
 # HTML & CSS 
 
-![image](https://github.com/OMAR-ABU-SNINEH/Yahoo-ClonePage/assets/85748576/d653d415-a4cf-4134-bb95-f3ffe28b75f2)
+![Yahoo-ClonePage-screen](https://github.com/OMAR-ABU-SNINEH/Yahoo-ClonePage/assets/85748576/fc960030-0e1a-48da-acef-4bf2d18e524e)
+
